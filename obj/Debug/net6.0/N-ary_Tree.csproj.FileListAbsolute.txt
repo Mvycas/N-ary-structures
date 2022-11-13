@@ -1,0 +1,15 @@
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\bin\Debug\net6.0\N-ary_Tree.exe
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\bin\Debug\net6.0\N-ary_Tree.deps.json
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\bin\Debug\net6.0\N-ary_Tree.runtimeconfig.json
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\bin\Debug\net6.0\N-ary_Tree.dll
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\bin\Debug\net6.0\ref\N-ary_Tree.dll
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\bin\Debug\net6.0\N-ary_Tree.pdb
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\obj\Debug\net6.0\N-ary_Tree.csproj.AssemblyReference.cache
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\obj\Debug\net6.0\N-ary_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\obj\Debug\net6.0\N-ary_Tree.AssemblyInfoInputs.cache
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\obj\Debug\net6.0\N-ary_Tree.AssemblyInfo.cs
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\obj\Debug\net6.0\N-ary_Tree.csproj.CoreCompileInputs.cache
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\obj\Debug\net6.0\N-ary_Tree.dll
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\obj\Debug\net6.0\ref\N-ary_Tree.dll
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\obj\Debug\net6.0\N-ary_Tree.pdb
+C:\Users\Martynas\Desktop\Todo\N-ary_Tree\N-ary_Tree\obj\Debug\net6.0\N-ary_Tree.genruntimeconfig.cache
